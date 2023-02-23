@@ -1,4 +1,4 @@
-<!-- # Researcher
+# Researcher
 
 ### [Demo Website](http://ankitsultana.com/researcher)
 
@@ -57,4 +57,4 @@ value
 
 ### License
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE) -->
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
